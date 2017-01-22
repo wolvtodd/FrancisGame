@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrancisGame.CSharp", "FrancisGame.CSharp.csproj", "{230915EE-8DEF-5D9D-CFB9-A4B76F815C4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrancisGame.Plugins", "FrancisGame.Plugins.csproj", "{792BE6FE-23D1-F06B-4F34-DD862DB9324A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrancisGame", "FrancisGame.csproj", "{2B727F2E-3AAC-B130-3E25-B2EA1D115066}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{230915EE-8DEF-5D9D-CFB9-A4B76F815C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{230915EE-8DEF-5D9D-CFB9-A4B76F815C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{230915EE-8DEF-5D9D-CFB9-A4B76F815C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{230915EE-8DEF-5D9D-CFB9-A4B76F815C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792BE6FE-23D1-F06B-4F34-DD862DB9324A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792BE6FE-23D1-F06B-4F34-DD862DB9324A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792BE6FE-23D1-F06B-4F34-DD862DB9324A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792BE6FE-23D1-F06B-4F34-DD862DB9324A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B727F2E-3AAC-B130-3E25-B2EA1D115066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B727F2E-3AAC-B130-3E25-B2EA1D115066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B727F2E-3AAC-B130-3E25-B2EA1D115066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B727F2E-3AAC-B130-3E25-B2EA1D115066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
